@@ -19,6 +19,7 @@ int main() {
             << (a.betrag() == 3 ? "ok" : "NEIN!") << '\n';
 
   // test Einlese
+
   Vektor b;
 
   std::cout << "Geben Sie 1 -3 3 ein:";
